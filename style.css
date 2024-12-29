@@ -205,7 +205,7 @@ input[type=button], button {
 }
 
 input[type=button]:hover, button:hover {
-    background-color: #2eac2a;
+    background-color: #2cbe44;
 }
 
 fieldset {
