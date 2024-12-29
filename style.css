@@ -40,6 +40,14 @@ body {
     border-bottom: 1px solid #030303;
 }
 
+#separator {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    font-size: 1.2em;
+}
+
 header, main, section, article {
     max-width: 700px;
 }
