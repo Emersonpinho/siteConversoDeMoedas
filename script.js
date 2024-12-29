@@ -26,7 +26,7 @@ async function convertCurrency() {
     const toCurrency = document.getElementById('toCurrency').value;
 
     if (!amount || fromCurrency === toCurrency) {
-        document.getElementById('result').innerText = 'Please enter a valid amount and select different currencies.';
+        document.getElementById('result').innerText = 'por favor, insira um valor e selecione moedas diferentes';
         return;
     }
 
