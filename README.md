@@ -46,7 +46,7 @@ Bem-vindo ao **Conversor de Moedas**! Este projeto permite que você converta va
 ## 🔍 Demonstração
 
 ![Demonstração](https://i.postimg.cc/R0t3fjsd/Captura-de-tela-de-2024-12-29-11-33-22.png)
-)  
+
 
 ## 🤝 Contribuições
 
