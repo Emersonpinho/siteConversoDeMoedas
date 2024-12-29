@@ -22,6 +22,24 @@ body {
     align-items: center;
 }
 
+#search {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #000000;
+}
+
+#currencyList {
+    list-style-type: none;
+    padding: 0;
+}
+
+#currencyList li {
+    padding: 5px;
+    border-bottom: 1px solid #030303;
+}
+
 header, main, section, article {
     max-width: 700px;
 }

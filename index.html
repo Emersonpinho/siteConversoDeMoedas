@@ -7,17 +7,26 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    
     <div class="converter">
         <h1>🪙 Converso de moedas 🪙</h1>
+        <input type="text" id="search" placeholder="Pesquisar moeda">
+<ul id="currencyList">
+    <li>USD - Dólar</li>
+    <li>EUR - Euro</li>
+    <li>BRL - Real</li>
+    <!-- Adicione mais moedas conforme necessário -->
+</ul>
         <input type="number" id="amount" placeholder="Insira o valor">
         <select id="fromCurrency">
-            
+
         </select>
         <select id="toCurrency">
             <!-- Options will be populated dynamically -->
         </select>
         <button onclick="convertCurrency()">Converte</button>
         <p id="result"></p>
+        
     </div>
 
     <script src="script.js"></script>

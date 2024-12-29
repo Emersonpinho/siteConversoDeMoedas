@@ -39,3 +39,18 @@ async function convertCurrency() {
 }
 
 populateCurrencies();
+
+document.getElementById('search').addEventListener('input', function() {
+    const searchValue = this.value.toLowerCase();
+    const currencyList = document.getElementById('currencyList');
+    const currencies = currencyList.getElementsByTagName('li');
+
+    for (let i = 0; i < currencies.length; i++) {
+        const currency = currencies[i].textContent.toLowerCase();
+        if (currency.includes(searchValue)) {
+            currencies[i].style.display = '';
+        } else {
+            currencies[i].style.display = 'none';
+        }
+    }
+});
