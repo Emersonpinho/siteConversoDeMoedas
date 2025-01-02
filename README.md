@@ -58,7 +58,7 @@ Contribuições são super bem-vindas! Siga os passos abaixo para contribuir:
 4. Envie para o repositório remoto: `git push origin minha-feature`.
 5. Abra um Pull Request. 🚀
 
-## 📜 Licença
+## 📜 Licença 
 
 Este projeto está licenciado sob a licença MIT. 📄
 
@@ -67,5 +67,6 @@ Este projeto está licenciado sob a licença MIT. 📄
 Este projeto foi criado para fins de aprendizado e é totalmente personalizável. Caso tenha dúvidas ou sugestões, sinta-se à vontade para abrir uma issue! ✨
 
 ---
+
 
 Feito com ❤️ por [Emerson pinho](https://github.com/PinhoLinux). 🌟
