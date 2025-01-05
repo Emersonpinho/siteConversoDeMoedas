@@ -2,27 +2,27 @@
 
 Bem-vindo ao **Conversor de Moedas**! Este projeto permite que você converta valores entre diversas moedas de maneira rápida e prática, além de pesquisar por moedas disponíveis. 🌍💱
 
-## 🚀 Funcionalidades
+## 🚀 Funcionalidades:
 
 - 🌎 **Suporte para múltiplas moedas**: Converta entre as moedas mais usadas no mundo.
 - 🔍 **Pesquisa rápida**: Encontre moedas com facilidade usando o campo de pesquisa.
 - ⚡ **Conversão em tempo real**: Obtenha resultados instantaneamente.
 - 📱 **Design responsivo**: Totalmente funcional em dispositivos móveis.
 
-## 🖼️ Interface
+## 🖼️ Interface:
 
 - **HTML**: Estrutura da página.
 - **CSS**: Estilo moderno com gradientes e design intuitivo.
 - **JavaScript**: Lógica para conversão e integração com a API de câmbio.
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas:
 
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla)**
 - **API Exchange Rate**
 
-## 📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto:
 
 ```plaintext
 📁 ConversorMoedas
@@ -31,7 +31,7 @@ Bem-vindo ao **Conversor de Moedas**! Este projeto permite que você converta va
 ├── 📄 script.js     # Lógica da aplicação
 ```
 
-## 🧑‍💻 Como Utilizar
+## 🧑‍💻 Como Utilizar:
 
 1. Clone o repositório:
 
@@ -43,12 +43,12 @@ Bem-vindo ao **Conversor de Moedas**! Este projeto permite que você converta va
 3. Escolha as moedas de origem e destino.
 4. Insira o valor e clique em **Converte**.
 
-## 🔍 Demonstração
+## 🔍 Demonstração:
 
 ![Demonstração](https://i.postimg.cc/R0t3fjsd/Captura-de-tela-de-2024-12-29-11-33-22.png)
 
 
-## 🤝 Contribuições
+## 🤝 Contribuições:
 
 Contribuições são super bem-vindas! Siga os passos abaixo para contribuir:
 
@@ -58,11 +58,11 @@ Contribuições são super bem-vindas! Siga os passos abaixo para contribuir:
 4. Envie para o repositório remoto: `git push origin minha-feature`.
 5. Abra um Pull Request. 🚀
 
-## 📜 Licença 
+## 📜 Licença :
 
 Este projeto está licenciado sob a licença MIT. 📄
 
-## 📝 Notas Finais
+## 📝 Notas Finais:
 
 Este projeto foi criado para fins de aprendizado e é totalmente personalizável. Caso tenha dúvidas ou sugestões, sinta-se à vontade para abrir uma issue! ✨
 
